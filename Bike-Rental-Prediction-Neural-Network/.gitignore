@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.udacity-pa/
+__pycache__/
+setup.sh
+first_neural_network-254886.zip
+first_neural_network-result-254886.json
+jwt
